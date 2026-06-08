@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ronit Mittal
 
-<!--
-**INFUNDER/INFUNDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Student | AI & Computer Vision Researcher
 
-Here are some ideas to get you started:
+Research interests:
+- Computer Vision
+- Medical Image Analysis
+- Object Detection
+- Deep Learning
+- Remote Sensing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+- Research Intern at Dalian University of Technology
+- Working on Face Recognition
+- Working on Brain Stroke Lesion Segmentation
+- Working on Camouflaged Object Detection
+## Publications
+
+### Published
+- Paper 1
+- Paper 2
+
+### Accepted
+- Satellite Human Detection (CICN 2026)
+- Image Analysis (CICN 2026)
+
+### Under Review / Ongoing
+- Camouflaged Object Detection
+- Brain Stroke Lesion Segmentation
+- Osteoporosis Detection
