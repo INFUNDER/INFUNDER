@@ -14,15 +14,12 @@ Currently:
 - Working on Face Recognition
 - Working on Brain Stroke Lesion Segmentation
 - Working on Camouflaged Object Detection
+- 
 ## Publications
 
-### Published
-- Paper 1
-- Paper 2
-
 ### Accepted
-- Satellite Human Detection (CICN 2026)
-- Image Analysis (CICN 2026)
+- Hybrid Image-Based Wound Healing Analysis Using Entropy-Based Segmentation, Texture Features, and Optical Flow (CICN 2026)
+- Human Presence Detection in Disaster Imagery Using Machine Learning (CICN 2026)
 
 ### Under Review / Ongoing
 - Camouflaged Object Detection
